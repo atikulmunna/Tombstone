@@ -1,8 +1,3 @@
-
-
-
-
-
 console.clear(); 
 
 class TombstoneGenerator {
